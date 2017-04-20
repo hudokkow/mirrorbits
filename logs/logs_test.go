@@ -12,10 +12,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/etix/mirrorbits/core"
-	"github.com/etix/mirrorbits/filesystem"
-	"github.com/etix/mirrorbits/mirrors"
-	"github.com/etix/mirrorbits/network"
+	"github.com/hudokkow/mirrorbits/core"
+	"github.com/hudokkow/mirrorbits/filesystem"
+	"github.com/hudokkow/mirrorbits/mirrors"
+	"github.com/hudokkow/mirrorbits/network"
 	"github.com/op/go-logging"
 )
 

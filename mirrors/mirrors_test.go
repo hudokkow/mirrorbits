@@ -12,10 +12,10 @@ import (
 	"time"
 
 	"github.com/etix/geoip"
-	"github.com/etix/mirrorbits/config"
-	"github.com/etix/mirrorbits/database"
-	"github.com/etix/mirrorbits/network"
-	. "github.com/etix/mirrorbits/testing"
+	"github.com/hudokkow/mirrorbits/config"
+	"github.com/hudokkow/mirrorbits/database"
+	"github.com/hudokkow/mirrorbits/network"
+	. "github.com/hudokkow/mirrorbits/testing"
 	"github.com/garyburd/redigo/redis"
 	"github.com/rafaeljusto/redigomock"
 )

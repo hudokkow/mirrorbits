@@ -13,9 +13,9 @@ import (
 	"unsafe"
 
 	"github.com/etix/geoip"
-	"github.com/etix/mirrorbits/filesystem"
-	"github.com/etix/mirrorbits/network"
-	. "github.com/etix/mirrorbits/testing"
+	"github.com/hudokkow/mirrorbits/filesystem"
+	"github.com/hudokkow/mirrorbits/network"
+	. "github.com/hudokkow/mirrorbits/testing"
 	"github.com/garyburd/redigo/redis"
 	_ "github.com/rafaeljusto/redigomock"
 )

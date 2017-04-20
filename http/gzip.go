@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	. "github.com/etix/mirrorbits/config"
-	"github.com/etix/mirrorbits/http/cgzip"
+	. "github.com/hudokkow/mirrorbits/config"
+	"github.com/hudokkow/mirrorbits/http/cgzip"
 )
 
 type gzipResponseWriter struct {

@@ -13,7 +13,7 @@ import (
 	"io"
 	"os"
 
-	. "github.com/etix/mirrorbits/config"
+	. "github.com/hudokkow/mirrorbits/config"
 )
 
 // Generate a human readable hash of the given file path

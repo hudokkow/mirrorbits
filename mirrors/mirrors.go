@@ -9,11 +9,11 @@ import (
 	"math/rand"
 	"time"
 
-	. "github.com/etix/mirrorbits/config"
-	"github.com/etix/mirrorbits/database"
-	"github.com/etix/mirrorbits/filesystem"
-	"github.com/etix/mirrorbits/network"
-	"github.com/etix/mirrorbits/utils"
+	. "github.com/hudokkow/mirrorbits/config"
+	"github.com/hudokkow/mirrorbits/database"
+	"github.com/hudokkow/mirrorbits/filesystem"
+	"github.com/hudokkow/mirrorbits/network"
+	"github.com/hudokkow/mirrorbits/utils"
 	"github.com/garyburd/redigo/redis"
 )
 

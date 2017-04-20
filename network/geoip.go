@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/etix/geoip"
-	. "github.com/etix/mirrorbits/config"
+	. "github.com/hudokkow/mirrorbits/config"
 	"github.com/op/go-logging"
 )
 
