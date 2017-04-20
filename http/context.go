@@ -4,7 +4,7 @@
 package http
 
 import (
-	. "github.com/wsnipex/mirrorbits/config"
+	. "github.com/hudokkow/mirrorbits/config"
 	"net/http"
 	"net/url"
 )
