@@ -212,7 +212,7 @@ func SetConfiguration(c *Configuration) {
 	config = c
 }
 
-func SafeGetConfig() *configuration {
+func SafeGetConfig() *Configuration {
 	defer func() {
 		if err := recover(); err != nil {}
 	}()
